@@ -1,5 +1,9 @@
 # MAS
 Gestionnaire d'associassions sportive OpenSource
+L'objectif est de fournir a toutes assoS et a tout les Membres une plateforme pour leur vie d'assoS.
+Principaux point de fonction : 
+- Un membre pourrait voir les assoS et s'inscrire via la plateforme
+- Les assoS pourrait se servire de la plateforme pour gérer leur membre, leur visibilité et autres.
 
 
 ## Use cases
